@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "ヴァンパイア ♡ 星川サラ【歌ってみた】",
+  "base_artist": "星川サラ",
+  "createdAt": "2025-12-01T23:54:53.181283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ヴァンパイア_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_ヴァンパイア_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヴァンパイア (ピノキオピー’s Miku Ver.)",
+      "artist": "DECO*27 feat. PinocchioP",
+      "has_synced": false,
+      "path": "select/03_ヴァンパイア_(ピノキオピー’s_Miku_Ver.)_DECO_27_feat._PinocchioP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヴァンパイア (ピノキオピー's Miku Ver.)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/04_ヴァンパイア_(ピノキオピー's_Miku_Ver.)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヴァンパイア (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_ヴァンパイア_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/06_ヴァンパイア_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヴァンパイア (ピノキオピー’s Miku Ver.)",
+      "artist": "DECO*27 & ピノキオピー",
+      "has_synced": true,
+      "path": "select/07_ヴァンパイア_(ピノキオピー’s_Miku_Ver.)_DECO_27_&_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヴァンパイア (ピノキオピー’s Miku Ver.)",
+      "artist": "DECO*27/PinocchioP",
+      "has_synced": true,
+      "path": "select/08_ヴァンパイア_(ピノキオピー’s_Miku_Ver.)_DECO_27_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/09_ヴァンパイア_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヴァンパイア†キス",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/10_ヴァンパイア†キス_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/11_ヴァンパイア_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/12_ヴァンパイア_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "Mabodofu",
+      "has_synced": true,
+      "path": "select/13_ヴァンパイア_Mabodofu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/14_ヴァンパイア_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/15_ヴァンパイア_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "DECO*27×ピノキオピー",
+      "has_synced": true,
+      "path": "select/16_ヴァンパイア_DECO_27×ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ヴァンパイア (ピノキオピー's Miku Ver.)",
+      "artist": "deco27×PinocchioP",
+      "has_synced": true,
+      "path": "select/17_ヴァンパイア_(ピノキオピー's_Miku_Ver.)_deco27×PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ヴァンパイア (ピノキオピー’s Miku Ver.)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/18_ヴァンパイア_(ピノキオピー’s_Miku_Ver.)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ヴァンパイア",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/19_ヴァンパイア_Yuu..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vampire",
+      "artist": "加藤 和樹",
+      "has_synced": false,
+      "path": "select/pl_01_Vampire_加藤_和樹.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ヴァンパイア",
+      "artist": "加藤 和樹",
+      "has_synced": false,
+      "path": "select/pl_02_ヴァンパイア_加藤_和樹.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "VAMPIRE'S LOVE",
+      "artist": "加藤 和樹",
+      "has_synced": false,
+      "path": "select/pl_03_VAMPIRE'S_LOVE_加藤_和樹.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "VAMPIRE'S LOVE",
+      "artist": "加藤 和樹",
+      "has_synced": false,
+      "path": "select/pl_04_VAMPIRE'S_LOVE_加藤_和樹.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ヴァンパイア",
+      "artist": "加藤 和樹",
+      "has_synced": false,
+      "path": "select/pl_05_ヴァンパイア_加藤_和樹.txt"
+    }
+  ]
+}
